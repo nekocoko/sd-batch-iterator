@@ -1,0 +1,145 @@
+{
+    "base_prompt": "",
+    "variable_prompts": [
+        {
+            "name": "admiration-0",
+            "prompt": "slightly raised eyebrows, sparkling eyes, soft smile, gentle blush, slight awe",
+            "enabled": true
+        },
+        {
+            "name": "amusement-0",
+            "prompt": "relaxed eyebrows, playful smile, bright eyes, lighthearted mood",
+            "enabled": true
+        },
+        {
+            "name": "anger-0",
+            "prompt": "v-shaped eyebrows, deeply furrowed brows, glaring eyes, clenched jaw, tense face",
+            "enabled": true
+        },
+        {
+            "name": "annoyance-0",
+            "prompt": "slanted eyebrows, narrowed eyes, slight frown, side glance, puffed cheeks",
+            "enabled": true
+        },
+        {
+            "name": "approval-0",
+            "prompt": "natural relaxed brows, gentle smile, calm eyes, slight nod, composed face",
+            "enabled": true
+        },
+        {
+            "name": "caring-0",
+            "prompt": "inner brows slightly raised, tender eyes, warm smile, concerned look",
+            "enabled": true
+        },
+        {
+            "name": "confusion-0",
+            "prompt": "uneven eyebrows, one brow raised, puzzled eyes, tilted head, slightly open mouth",
+            "enabled": true
+        },
+        {
+            "name": "curiosity-0",
+            "prompt": "raised eyebrows, wide focused eyes, intent gaze, slight lean forward",
+            "enabled": true
+        },
+        {
+            "name": "desire-0",
+            "prompt": "half-lidded eyes, relaxed brows, intense gaze, subtle blush, parted lips",
+            "enabled": true
+        },
+        {
+            "name": "disappointment-0",
+            "prompt": "downward brows, drooping eyelids, small frown, downcast eyes",
+            "enabled": true
+        },
+        {
+            "name": "disapproval-0",
+            "prompt": "knit eyebrows, cold stare, flat lips, stern face",
+            "enabled": true
+        },
+        {
+            "name": "disgust-0",
+            "prompt": "lowered brows, wrinkled nose, averted gaze, tense mouth, recoiling expression",
+            "enabled": true
+        },
+        {
+            "name": "embarrassment-0",
+            "prompt": "uneven lowered brows, deep blush, shy face, looking away, lips pressed together",
+            "enabled": true
+        },
+        {
+            "name": "excitement-0",
+            "prompt": "high arched eyebrows, sparkling wide eyes, big open smile, energetic mood",
+            "enabled": true
+        },
+        {
+            "name": "fear-0",
+            "prompt": "raised knit eyebrows, widened eyes, trembling lips, tense face",
+            "enabled": true
+        },
+        {
+            "name": "gratitude-0",
+            "prompt": "gentle relaxed brows, soft smile, kind eyes, slight bow, thankful look",
+            "enabled": true
+        },
+        {
+            "name": "grief-0",
+            "prompt": "upraised inner brows, tearful eyes, trembling mouth, visible tear streams, distressed face",
+            "enabled": true
+        },
+        {
+            "name": "joy-0",
+            "prompt": "upturned brows, bright smile, lively eyes, cheerful mood",
+            "enabled": true
+        },
+        {
+            "name": "love-0",
+            "prompt": "soft relaxed brows, half-lidded tender eyes, gentle smile, warm blush, affectionate gaze",
+            "enabled": true
+        },
+        {
+            "name": "nervousness-0",
+            "prompt": "slanted worried brows, uneasy smile, restless eyes, slight blush, fidgety look",
+            "enabled": true
+        },
+        {
+            "name": "neutral-0",
+            "prompt": "straight relaxed brows, calm face, neutral mouth, relaxed eyes",
+            "enabled": true
+        },
+        {
+            "name": "optimism-0",
+            "prompt": "lifted brows, hopeful smile, bright eyes, forward-looking gaze",
+            "enabled": true
+        },
+        {
+            "name": "pride-0",
+            "prompt": "arched brows, confident eyes, subtle smirk, chin slightly raised",
+            "enabled": true
+        },
+        {
+            "name": "realization-0",
+            "prompt": "suddenly raised eyebrows, widened eyes, thoughtful pause, subtle surprise",
+            "enabled": true
+        },
+        {
+            "name": "relief-0",
+            "prompt": "lowered relaxed brows, gentle exhale, soft smile, eased tension, calm eyes",
+            "enabled": true
+        },
+        {
+            "name": "remorse-0",
+            "prompt": "inner brows raised, guilty look, downcast eyes, slight tears, apologetic face",
+            "enabled": true
+        },
+        {
+            "name": "sadness-0",
+            "prompt": "inner brows raised, drooping eyelids, flat mouth, gloomy face, subtle tears",
+            "enabled": true
+        },
+        {
+            "name": "surprise-0",
+            "prompt": "very high raised eyebrows, wide eyes, open mouth, startled expression",
+            "enabled": true
+        }
+    ]
+}
