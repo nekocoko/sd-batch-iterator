@@ -40,7 +40,8 @@ JSON 파일에 정의된 프롬프트 목록을 순차적으로 실행하여 `tx
 - (실행 예: `python prompt_editor_app.py`)
 
 ## JSON 형식 예시
-```json
+```
+json
 {
     "base_prompt": "masterpiece, best quality",
     "variable_prompts": [
@@ -72,7 +73,8 @@ JSON 파일에 정의된 프롬프트 목록을 순차적으로 실행하여 `tx
 SillyTavern에 등록 가능한 28가지 표정 프롬프트가 목록에 등록되어 있습니다.  
 프롬프트 내용은 아래와 같습니다.
 
-```name: admiration-0
+```
+name: admiration-0
 prompt: slightly raised eyebrows, sparkling eyes, soft smile, gentle blush, slight awe
 
 name: amusement-0
@@ -204,7 +206,8 @@ It sequentially executes a list of prompts defined in a JSON file to automate `t
 - (Example: `python prompt_editor_app.py`)
 
 ## JSON Format Example
-```json
+```
+json
 {
     "base_prompt": "masterpiece, best quality",
     "variable_prompts": [
@@ -236,7 +239,8 @@ It sequentially executes a list of prompts defined in a JSON file to automate `t
 The file includes a list of 28 expression prompts that can be registered in SillyTavern.  
 The prompt contents are as follows.
 
-```name: admiration-0
+```
+name: admiration-0
 prompt: slightly raised eyebrows, sparkling eyes, soft smile, gentle blush, slight awe
 
 name: amusement-0
