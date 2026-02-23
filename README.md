@@ -28,7 +28,7 @@ JSON 파일에 정의된 프롬프트 목록을 순차적으로 실행하여 `tx
 3. 이 저장소의 URL을 입력하고 `Install`을 누릅니다.
 4. `Apply and restart UI`를 클릭하여 적용합니다.
 
-## 사용법 (Usage)
+## 사용법
 
 ### WebUI 스크립트 사용
 1. `txt2img` 또는 `img2img` 탭의 스크립트(Script) 드롭다운에서 **sd-batch-iterator**를 선택합니다.
